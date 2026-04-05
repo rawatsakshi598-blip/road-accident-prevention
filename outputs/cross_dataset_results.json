@@ -1,0 +1,16 @@
+{
+  "NHAI Multi-Corridor -> Kaggle India Severity": {
+    "accuracy": 0.2296,
+    "f1_weighted": 0.3515,
+    "common_features": 8,
+    "source_records": 8116,
+    "target_records": 7873
+  },
+  "Kaggle India Severity -> NHAI Multi-Corridor": {
+    "accuracy": 0.1737,
+    "f1_weighted": 0.1692,
+    "common_features": 8,
+    "source_records": 7873,
+    "target_records": 8116
+  }
+}

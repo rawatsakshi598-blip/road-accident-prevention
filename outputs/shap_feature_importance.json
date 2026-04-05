@@ -1,0 +1,21 @@
+{
+  "model": "GBM",
+  "features": [
+    {
+      "name": "Accident_Location_A",
+      "importance": 0.021317
+    },
+    {
+      "name": "Accident_Location_A_Chainage_km",
+      "importance": 0.020409
+    },
+    {
+      "name": "Accident_Location_A_Chainage_km_RoadSide",
+      "importance": 0.016829
+    },
+    {
+      "name": "Day_of_Week",
+      "importance": 0.011617
+    }
+  ]
+}

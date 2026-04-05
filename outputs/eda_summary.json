@@ -1,0 +1,28 @@
+{
+  "dataset_name": "NHAI Multi-Corridor",
+  "total_records": 8116,
+  "total_features": 12,
+  "class_distribution": {
+    "Minor Injury": 3088,
+    "Grievous Injury": 2904,
+    "No Injury": 1416,
+    "Fatal": 708
+  },
+  "missing_values": {
+    "Vehicle_Type_Involved_J_V2": 6154
+  },
+  "missing_pct": {
+    "Vehicle_Type_Involved_J_V2": 75.83
+  },
+  "date_range": {
+    "start": "2013-01-09",
+    "end": "2023-12-07"
+  },
+  "num_classes": 4,
+  "severity_map": {
+    "1": "Fatal",
+    "2": "Grievous Injury",
+    "3": "Minor Injury",
+    "4": "No Injury"
+  }
+}
